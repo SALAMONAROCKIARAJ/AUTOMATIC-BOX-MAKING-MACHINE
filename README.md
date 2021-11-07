@@ -7,6 +7,8 @@ Schematic file : Outline of my simulation
 Gif file : Working video 
 
 Working Procedure : Componnets , Connection ,  Working Porcedure 
+
+CT file : open in simulation app 
  
 
 Learn about Pneumatic simulation software  (Festo Fluidsim Pneumatic ) :  
